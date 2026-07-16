@@ -235,17 +235,15 @@
 <div align="center">
 
 <p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shreya-gupta-profile/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
+  <a href="guptashreya1628@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
   &nbsp;
-  <a href="https://shreya-portfolio-drab-two.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel Portfolio" /></a>
+  <a href="https://shreya-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel Portfolio" /></a>
   &nbsp;
   <a href="https://github.com/Shreya-1416"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 </p>
 
 <br/>
-
-> **Action needed:** Replace `YOUR_LINKEDIN_URL` (e.g. `https://www.linkedin.com/in/<your-handle>/`) and `YOUR_EMAIL` (e.g. `you@example.com`) with your real values before publishing.
 
 </div>
