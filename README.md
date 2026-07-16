@@ -8,15 +8,15 @@
 
 <br><br>
 
-<a href="https://shreya-portfolio-drab-two.vercel.app/">
+<a href="https://shreya-gupta-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shreya-gupta-profile/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:guptashreya1628@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -44,7 +44,7 @@
 - **AI/ML Enthusiast** exploring LLMs, computer vision, and intelligent systems
 - **DSA Focused** with consistent problem-solving and competitive programming practice
 - Recently built a **Myntra For Bharat hackathon submission** for WeForShe Hacker-ramp 2026
-- Currently building a full-featured **Kanban board application** with drag-and-drop, real-time collaboration features, and a live backend API
+- Currently building a full-featured **Kanban board application** with drag-and-drop and a live backend API
 
 ---
 
@@ -153,7 +153,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" colspan="2" valign="top">
 
 ### AtomQuest Performance Management
 > Employee performance management platform for tracking goals, reviews, and KPIs.
@@ -166,15 +166,12 @@
 - In-app notifications and feedback loops
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
 
 <div align="center">
 
-> See the full project gallery on my <a href="https://shreya-portfolio-drab-two.vercel.app/"><b>Portfolio</b></a>
+> See the full project gallery on my <a href="https://shreya-gupta-portfolio.vercel.app/"><b>Portfolio</b></a>
 
 </div>
 
@@ -243,7 +240,5 @@
   &nbsp;
   <a href="https://github.com/Shreya-1416"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 </p>
-
-<br/>
 
 </div>
