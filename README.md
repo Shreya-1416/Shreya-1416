@@ -177,16 +177,25 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreya-1416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-1416&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Shreya-1416&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<br/><br/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-1416&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shreya-1416&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+<br><br>
+
+<img width="75%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-1416&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-1416&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -200,10 +209,22 @@
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shreya-1416/Shreya-1416/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shreya-1416/Shreya-1416/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shreya-1416/Shreya-1416/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Shreya-1416/Shreya-1416/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
