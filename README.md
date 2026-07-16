@@ -239,7 +239,7 @@
   &nbsp;
   <a href="guptashreya1628@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
   &nbsp;
-  <a href="https://shreya-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel Portfolio" /></a>
+  <a href="https://shreya-gupta-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel Portfolio" /></a>
   &nbsp;
   <a href="https://github.com/Shreya-1416"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 </p>
