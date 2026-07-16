@@ -1,32 +1,36 @@
 <div align="center">
 
-<!-- 🌊 Wave header + banner image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Hi,%20I'm%20Shreya%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Associate%20Technical%20Lead%20Intern%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20ML&descSize=18&descAlignY=55" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Shreya%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Associate%20Technical%20Lead%20Intern%20|%20MERN%20Developer%20|%20AI%20Engineer&descAlignY=58"/>
 
-# Hi, I'm Shreya Gupta 👋
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Associate+Technical+Lead+Intern;MERN+Stack+Developer;AI+%26+ML+Enthusiast;DSA+%7C+Problem+Solver;Building+Scalable+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Building+Production+Ready+Applications;MERN+Stack+Developer;Artificial+Intelligence+Enthusiast;Problem+Solver;Always+Learning+New+Technologies"/>
 
-<p>
-  <a href="https://shreya-portfolio-drab-two.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br><br>
 
-<!-- 👀 Profile views + followers counter -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Shreya-1416&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Shreya-1416?label=Followers&style=for-the-badge&color=0A66C2" alt="GitHub Followers" />
-  <a href="https://github.com/Shreya-1416">
-    <img src="https://img.shields.io/badge/GitHub-@Shreya--1416-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
+<a href="https://shreya-portfolio-drab-two.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shreya-1416">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Shreya-1416&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Shreya-1416?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Shreya-1416?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
