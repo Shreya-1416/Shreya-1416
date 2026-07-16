@@ -237,7 +237,7 @@
 <p>
   <a href="https://www.linkedin.com/in/shreya-gupta-profile/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="guptashreya1628@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
+  <a href="mailto:guptashreya1628@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
   &nbsp;
   <a href="https://shreya-gupta-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel Portfolio" /></a>
   &nbsp;
